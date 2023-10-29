@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SumaIterativa-Python", "SumaIterativa-Python\SumaIterativa-Python.pyproj", "{BB966E59-230B-4C61-BACF-F67347E3EDA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB966E59-230B-4C61-BACF-F67347E3EDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB966E59-230B-4C61-BACF-F67347E3EDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3EAC31-4EFB-4551-9CDD-624FC82FD5AB}
+	EndGlobalSection
+EndGlobal
